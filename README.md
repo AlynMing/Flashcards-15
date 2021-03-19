@@ -8,10 +8,10 @@ flashcard app
 <img src="http://g.recordit.co/8ZVg3iwMop.gif" width=200><br>
 
 ## Required
-- [x] User can browse through multiple flashcards
-- [x] User can re-open the app and see previously created flashcards
-- [x] Push code to GitHub
+- [ ] User can browse through multiple flashcards
+- [ ] User can re-open the app and see previously created flashcards
+- [ ] Push code to GitHub
 ## Optional
-- [x] User can delete a flashcard
-- [x] User can edit existing flashcard
-- [x] User can store multiple choice questions
+- [ ] User can delete a flashcard
+- [ ] User can edit existing flashcard
+- [ ] User can store multiple choice questions
